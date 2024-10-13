@@ -1,1 +1,11 @@
+DOMAIN-SUFFIX,*.binance.com
+DOMAIN-SUFFIX,*.binance.us
+DOMAIN-SUFFIX,*.binance.org
+DOMAIN-SUFFIX,*.binance.vision
+DOMAIN-SUFFIX,*.binanceapi.com
+DOMAIN-SUFFIX,*.stream.binance.com
+DOMAIN-SUFFIX,*.fstream.binance.com
+DOMAIN-SUFFIX,*.okx.com
+DOMAIN-SUFFIX,*.kraken.com
+DOMAIN-SUFFIX,*.coinbase.com
 
